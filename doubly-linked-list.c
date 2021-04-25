@@ -49,7 +49,6 @@ int invertList(headNode* h);
 
 void printList(headNode* h);
 
-
 int main()
 {
 	char command;
